@@ -1,4 +1,4 @@
-# vs-code Shortcuts
+# Vs-Code Shortcuts
 
 ## Official List of all commands
 
