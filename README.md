@@ -259,6 +259,12 @@ Highlight Code
 Shift+Any Direction
 ```
 
+Highlight Code According to Code Block
+
+```bash
+Shift+Alt+Right/Left
+```
+
 Select Next Match
 
 ```bash
