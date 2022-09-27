@@ -121,8 +121,8 @@ Ctrl+W
 
 Delete File
 ```
-Cmd+Delete
-Ctrl+Delete
+Delete button
+Delete button
 ```
 
 Reopen Tab
