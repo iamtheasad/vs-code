@@ -65,7 +65,8 @@ Shift+Ctrl+E
 ```
 
 Open File/Folder From Sidebar
-```
+
+```bash
 Cmd+Left/Right
 Ctrl+Left/Right
 ```
@@ -110,6 +111,12 @@ Save As
 ```bash
 Shift+Cmd+S
 Shift+Ctrl+S
+```
+
+Rename File
+
+```bash
+  F2
 ```
 
 Close File
