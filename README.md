@@ -276,7 +276,7 @@ Cmd+U
 Ctrl+U
 ```
 
-Add Cursor
+Add Multiple Cursor
 
 ```bash
 Option+Click
