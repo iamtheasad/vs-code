@@ -116,7 +116,7 @@ Shift+Ctrl+S
 Rename File
 
 ```bash
-  F2
+F2
 ```
 
 Close File
