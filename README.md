@@ -138,16 +138,6 @@ Shift+Cmd+T
 Shift+Ctrl+T
 ```
 
-Zoom
-
-```bash
-Cmd++ # Zoom in
-Cmd+- # Zoom out
-
-Ctrl++ # Zoom in
-Ctrl+- # Zoom out
-```
-
 Spilt Editor
 
 ```bash
