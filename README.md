@@ -129,7 +129,7 @@ Cmd+Delete
 Ctrl+Delete
 ```
 
-Reopen Files
+Reopen Tab
 ```
 Shift+Cmd+T
 Shift+Ctrl+T
