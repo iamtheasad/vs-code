@@ -147,7 +147,7 @@ Ctrl+\
 
 ## Code Editing
 
-Go To Start & End Of Line
+Move By Word
 
 ```bash
 Cmd+Right
@@ -155,19 +155,13 @@ Cmd+Left
 
 Ctrl+Right
 Ctrl+Left
-
-home
-end
 ```
 
-Move By Word
+Go To Start & End Of Line
 
 ```bash
-Option+Right
-Option+Left
-
-Alt+Right
-Alt+Left
+home
+end
 ```
 
 Go To Start & End Of File
@@ -250,7 +244,7 @@ Shift+Option+A
 Shift+Alt+A
 ```
 
-Highlight Code
+Highlight Code to Any Direction
 
 ```bash
 Shift+Any Direction
