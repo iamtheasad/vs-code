@@ -70,8 +70,8 @@ Shift+Ctrl+E
 
 Open File/Folder From Sidebar
 ```
-Cmd+Down
-Ctrl+Down
+Cmd+Left/Right
+Ctrl+Left/Right
 ```
 
 Change File Tabs
