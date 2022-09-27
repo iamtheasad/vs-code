@@ -5,145 +5,6 @@
 * [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 * [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
-## Open/View
-
-Open Command Pallete
-
-```bash
-Shift+Cmd+P
-Shift+Ctrl+P
-```
-
-Access Settings
-
-```bash
-Cmd+,
-Ctrl+,
-```
-
-Toggle Terminal
-
-```bash
-Ctrl+`
-Ctrl+`
-```
-
-Create New Terminal
-```
-Shift+Ctrl+`
-Shift+Ctrl+`
-```
-
-Toggle Sidebar
-
-```bash
-Cmd+B 
-Ctrl+B
-```
-
-Open New Window/Instance
-
-```bash
-Shift+Cmd+N 
-Shift+Ctrl+N
-```
-
-Close Window
-
-```bash
-Cmd+W 
-Ctrl+W
-```
-
-## Working With Files
-
-Sidebar Focus
-
-```bash
-Shift+Cmd+E
-Shift+Ctrl+E
-```
-
-Open File/Folder From Sidebar
-
-```bash
-Cmd+Left/Right
-Ctrl+Left/Right
-```
-
-Change File Tabs
-
-```bash
-Ctrl+Tab 
-Ctrl+PageUP
-```
-
-Quick File Open
-
-```bash
-Cmd+P
-Ctrl+P
-```
-
-Open File From Explorer
-
-```bash
-Cmd+O
-Ctrl+O
-```
-
-New File
-
-```bash
-Cmd+N
-Ctrl+N
-```
-
-Save
-
-```bash
-Cmd+S
-Ctrl+S
-```
-
-Save As
-
-```bash
-Shift+Cmd+S
-Shift+Ctrl+S
-```
-
-Rename File
-
-```bash
-F2
-```
-
-Close File
-
-```bash
-Cmd+W
-Ctrl+W
-```
-
-Delete File
-```
-Delete button
-Delete button
-```
-
-Reopen Tab
-```
-Shift+Cmd+T
-Shift+Ctrl+T
-```
-
-Spilt Editor
-
-```bash
-Cmd+\
-Ctrl+\
-```
 
 ## Code Editing
 
@@ -282,4 +143,144 @@ Go to Entity (Functions, vars, etc)
 ```bash
 Cmd+Shift+O
 Ctrl+Shift+O
+```
+
+## Open/View
+
+Open Command Pallete
+
+```bash
+Shift+Cmd+P
+Shift+Ctrl+P
+```
+
+Access Settings
+
+```bash
+Cmd+,
+Ctrl+,
+```
+
+Toggle Terminal
+
+```bash
+Ctrl+`
+Ctrl+`
+```
+
+Create New Terminal
+```
+Shift+Ctrl+`
+Shift+Ctrl+`
+```
+
+Toggle Sidebar
+
+```bash
+Cmd+B 
+Ctrl+B
+```
+
+Open New Window/Instance
+
+```bash
+Shift+Cmd+N 
+Shift+Ctrl+N
+```
+
+Close Window
+
+```bash
+Cmd+W 
+Ctrl+W
+```
+
+## Working With Files
+
+Sidebar Focus
+
+```bash
+Shift+Cmd+E
+Shift+Ctrl+E
+```
+
+Open File/Folder From Sidebar
+
+```bash
+Cmd+Left/Right
+Ctrl+Left/Right
+```
+
+Change File Tabs
+
+```bash
+Ctrl+Tab 
+Ctrl+PageUP
+```
+
+Quick File Open
+
+```bash
+Cmd+P
+Ctrl+P
+```
+
+Open File From Explorer
+
+```bash
+Cmd+O
+Ctrl+O
+```
+
+New File
+
+```bash
+Cmd+N
+Ctrl+N
+```
+
+Save
+
+```bash
+Cmd+S
+Ctrl+S
+```
+
+Save As
+
+```bash
+Shift+Cmd+S
+Shift+Ctrl+S
+```
+
+Rename File
+
+```bash
+F2
+```
+
+Close File
+
+```bash
+Cmd+W
+Ctrl+W
+```
+
+Delete File
+```
+Delete button
+Delete button
+```
+
+Reopen Tab
+```
+Shift+Cmd+T
+Shift+Ctrl+T
+```
+
+Spilt Editor
+
+```bash
+Cmd+\
+Ctrl+\
 ```
