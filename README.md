@@ -1,11 +1,5 @@
 # Vs-Code Shortcuts
 
-### Official List of all commands
-
-* [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-* [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-
-
 ## Code Editing
 
 - Move By Word
@@ -273,3 +267,8 @@ Shift+Ctrl+T
 Cmd+\
 Ctrl+\
 ```
+
+### Official List of all commands
+
+* [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+* [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
