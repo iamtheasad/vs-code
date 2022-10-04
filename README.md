@@ -8,7 +8,7 @@
 
 ## Code Editing
 
-Move By Word
+- Move By Word
 
 ```bash
 Cmd+Right
@@ -18,14 +18,14 @@ Ctrl+Right
 Ctrl+Left
 ```
 
-Go To Start & End Of Line
+- Go To Start & End Of Line
 
 ```bash
 home
 end
 ```
 
-Go To Start & End Of File
+- Go To Start & End Of File
 
 ```bash
 Cmd+Up
@@ -35,7 +35,7 @@ Ctrl+Home
 Ctrl+End
 ```
 
-Cut, Copy & Past Line
+- Cut, Copy & Past Line
 
 ```bash
 Cmd+X #Cut
@@ -47,7 +47,7 @@ Ctrl+C # Copy
 Ctrl+V # Paste
 ```
 
-Move Line Up & Down
+- Move Line Up & Down
 
 ```bash
 Option+Up
@@ -57,7 +57,7 @@ Alt+Up
 Alt+Down
 ```
 
-Copy Line Up & Down
+- Copy Line Up & Down
 
 ```bash
 Shift+Option+Up
@@ -74,7 +74,7 @@ ShiftCmd+K
 Shift+Ctrl+K
 ```
 
-Insert Line
+- Insert Line
 
 ```bash
 Cmd+Enter # Insert below
@@ -84,61 +84,61 @@ Ctrl+Enter # Insert below
 Shift+Ctrl+Enter # Insert above
 ```
 
-Jump To Matching Bracket
+- Jump To Matching Bracket
 
 ```bash
 Shift+Cmd+\
 Shift+Ctrl+\
 ```
 
-Add Line Comment
+- Add Line Comment
 
 ```bash
 Cmd+/
 Ctrl+/
 ```
 
-Add Block Comment
+- Add Block Comment
 
 ```bash
 Shift+Option+A
 Shift+Alt+A
 ```
 
-Highlight Code to Any Direction
+- Highlight Code to Any Direction
 
 ```bash
 Shift+Any Direction
 ```
 
-Highlight Code According to Code Block
+- Highlight Code According to Code Block
 
 ```bash
 Shift+Alt+Right/Left
 ```
 
-Select Next Match
+- Select Next Match
 
 ```bash
 Cmd+D
 Ctrl+D
 ```
 
-De-select Match
+- De-select Match
 
 ```bash
 Cmd+U
 Ctrl+U
 ```
 
-Add Multiple Cursor
+- Add Multiple Cursor
 
 ```bash
 Option+Click
 Alt+Click
 ```
 
-Go to Entity (Functions, vars, etc)
+- Go to Entity (Functions, vars, etc)
 
 ```bash
 Cmd+Shift+O
@@ -147,48 +147,49 @@ Ctrl+Shift+O
 
 ## Open/View
 
-Open Command Pallete
+- Open Command Pallete
 
 ```bash
 Shift+Cmd+P
 Shift+Ctrl+P
 ```
 
-Access Settings
+- Access Settings
 
 ```bash
 Cmd+,
 Ctrl+,
 ```
 
-Toggle Terminal
+- Toggle Terminal
 
 ```bash
 Ctrl+`
 Ctrl+`
 ```
 
-Create New Terminal
+- Create New Terminal
+
 ```
 Shift+Ctrl+`
 Shift+Ctrl+`
 ```
 
-Toggle Sidebar
+- Toggle Sidebar
 
 ```bash
 Cmd+B 
 Ctrl+B
 ```
 
-Open New Window/Instance
+- Open New Window/Instance
 
 ```bash
 Shift+Cmd+N 
 Shift+Ctrl+N
 ```
 
-Close Window
+- Close Window
 
 ```bash
 Cmd+W 
@@ -197,88 +198,76 @@ Ctrl+W
 
 ## Working With Files
 
-Sidebar Focus
+- Sidebar Focus
 
 ```bash
 Shift+Cmd+E
 Shift+Ctrl+E
 ```
 
-Open File/Folder From Sidebar
+- Open File/Folder From Sidebar
 
 ```bash
 Cmd+Left/Right
 Ctrl+Left/Right
 ```
 
-Change File Tabs
+- Change File Tabs
 
 ```bash
 Ctrl+Tab 
 Ctrl+PageUP
 ```
 
-Quick File Open
+- Quick File Open
 
 ```bash
 Cmd+P
 Ctrl+P
 ```
 
-Open File From Explorer
+- Open File From Explorer
 
 ```bash
 Cmd+O
 Ctrl+O
 ```
 
-New File
+- New File
 
 ```bash
 Cmd+N
 Ctrl+N
 ```
 
-Save
-
-```bash
-Cmd+S
-Ctrl+S
-```
-
-Save As
-
-```bash
-Shift+Cmd+S
-Shift+Ctrl+S
-```
-
-Rename File
+- Rename File
 
 ```bash
 F2
 ```
 
-Close File
+- Close File
 
 ```bash
 Cmd+W
 Ctrl+W
 ```
 
-Delete File
+- Delete File
+
 ```
 Delete button
 Delete button
 ```
 
-Reopen Tab
+- Reopen Tab
+
 ```
 Shift+Cmd+T
 Shift+Ctrl+T
 ```
 
-Spilt Editor
+- Spilt Editor
 
 ```bash
 Cmd+\
