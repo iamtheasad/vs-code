@@ -2,7 +2,7 @@
 
 ## Code Editing
 
-### Move By Word
+- **Move By Word**
 
 ```
 Ctrl+Right
@@ -12,14 +12,14 @@ Cmd+Right
 Cmd+Left
 ```
 
-### Go To Start & End Of Line
+- **Go To Start & End Of Line**
 
 ```
 home
 end
 ```
 
-### Go To Start & End Of File
+- **Go To Start & End Of File**
 
 ```
 Ctrl+Home
@@ -29,7 +29,7 @@ Cmd+Up
 Cmd+Down
 ```
 
-### Cut, Copy & Past Line
+- **Cut, Copy & Past Line**
 
 ```
 Ctrl+X # Cut
@@ -41,7 +41,7 @@ Cmd+C #Copy
 Cmd+V #Paste
 ```
 
-### Move Line Up & Down
+- **Move Line Up & Down**
 
 ```
 Alt+Up
@@ -51,7 +51,7 @@ Option+Up
 Option+Down
 ```
 
-### Copy Line Up & Down
+- **Copy Line Up & Down**
 
 ```
 Shift+Alt+Up
@@ -62,7 +62,7 @@ Shift+Option+Up
 Shift+Option+Down
 ```
 
-### Remove Line
+- **Remove Line**
 
 ```
 Shift+Ctrl+K
@@ -70,7 +70,7 @@ Shift+Ctrl+K
 ShiftCmd+K
 ```
 
-### Insert Line
+- **Insert Line**
 
 ```
 Ctrl+Enter # Insert below
@@ -80,7 +80,7 @@ Cmd+Enter # Insert below
 Shift+Cmd+Enter # Insert above
 ```
 
-### Jump To Matching Bracket
+- **Jump To Matching Bracket**
 
 ```
 Shift+Ctrl+\
@@ -88,7 +88,7 @@ Shift+Ctrl+\
 Shift+Cmd+\
 ```
 
-### Add Line Comment
+- **Add Line Comment**
 
 ```
 Ctrl+/
@@ -96,7 +96,7 @@ Ctrl+/
 Cmd+/
 ```
 
-### Add Block Comment
+- **Add Block Comment**
 
 ```
 Shift+Alt+A
@@ -104,19 +104,19 @@ Shift+Alt+A
 Shift+Option+A
 ```
 
-### Highlight Code to Any Direction
+- **Highlight Code to Any Direction**
 
 ```
 Shift+Any Direction
 ```
 
-### Highlight Code According to Code Block
+- **Highlight Code According to Code Block**
 
 ```
 Shift+Alt+Arrow Right/Left
 ```
 
-### Select Next Match
+- **Select Next Match**
 
 ```
 Ctrl+D
@@ -124,7 +124,7 @@ Ctrl+D
 Cmd+D
 ```
 
-### D-select Match
+- **De-select Match**
 
 ```
 Ctrl+U
@@ -132,7 +132,7 @@ Ctrl+U
 Cmd+U
 ```
 
-### Add Multiple Cursor
+- **Add Multiple Cursor**
 
 ```
 Alt+Click
@@ -140,7 +140,7 @@ Alt+Click
 Option+Click
 ```
 
-### Go to Entity (Functions, vars, etc)
+- **Go to Entity (Functions, vars, etc)**
 
 ```
 Ctrl+Shift+O
@@ -150,7 +150,7 @@ Cmd+Shift+O
 
 ## Open/View
 
-### Open Command Pallete
+- **Open Command Pallete**
 
 ```
 Shift+Ctrl+P
@@ -158,7 +158,7 @@ Shift+Ctrl+P
 Shift+Cmd+P
 ```
 
-### Access Settings
+- **Access Settings**
 
 ```
 Ctrl+,
@@ -166,19 +166,19 @@ Ctrl+,
 Cmd+,
 ```
 
-### Toggle Terminal
+- **Toggle Terminal**
 
 ```
 Ctrl+`
 ```
 
-### Create New Terminal
+- **Create New Terminal**
 
 ```
 Shift+Ctrl+`
 ```
 
-### Toggle Sidebar
+- **Toggle Sidebar**
 
 ```
 Ctrl+B
@@ -186,7 +186,7 @@ Ctrl+B
 Cmd+B
 ```
 
-### Open New Window/Instance
+- **Open New Window/Instance**
 
 ```
 Shift+Ctrl+N
@@ -194,7 +194,7 @@ Shift+Ctrl+N
 Shift+Cmd+N
 ```
 
-### Close Window
+- **Close Window**
 
 ```
 Ctrl+W
@@ -204,7 +204,7 @@ Cmd+W
 
 ## Working With Files
 
-### Sidebar Focus
+- **Sidebar Focus**
 
 ```
 Shift+Ctrl+E
@@ -212,7 +212,7 @@ Shift+Ctrl+E
 Shift+Cmd+E
 ```
 
-### Open File/Folder From Sidebar
+- **Open File/Folder From Sidebar**
 
 ```
 Ctrl+Left/Right
@@ -220,14 +220,14 @@ Ctrl+Left/Right
 Cmd+Left/Right
 ```
 
-### Change File Tabs
+- **Change File Tabs**
 
 ```
 Ctrl+Tab
 Ctrl+PageUP
 ```
 
-### Quick File Open
+- **Quick File Open**
 
 ```
 Ctrl+P
@@ -235,7 +235,7 @@ Ctrl+P
 Cmd+P
 ```
 
-### Open File From Explorer
+- **Open File From Explorer**
 
 ```
 Ctrl+O
@@ -243,7 +243,7 @@ Ctrl+O
 Cmd+O
 ```
 
-### New File
+- **New File**
 
 ```
 Ctrl+N
@@ -251,13 +251,13 @@ Ctrl+N
 Cmd+N
 ```
 
-### Rename File
+- **Rename File**
 
 ```
 F2
 ```
 
-### Close File
+- \*\*Close File
 
 ```
 Ctrl+W
@@ -265,13 +265,13 @@ Ctrl+W
 Cmd+W
 ```
 
-### Delete File
+- \*\*Delete File
 
 ```
 Delete button
 ```
 
-### Reopen Tab
+- **Reopen Tab**
 
 ```
 Shift+Ctrl+T
@@ -279,7 +279,7 @@ Shift+Ctrl+T
 Shift+Cmd+T
 ```
 
-### Spilt Editor
+- **Spilt Editor**
 
 ```
 Ctrl+\
@@ -290,5 +290,4 @@ Cmd+\
 ### Official List of all commands
 
 - [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-
 - [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
