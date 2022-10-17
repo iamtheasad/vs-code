@@ -2,7 +2,7 @@
 
 ## Code Editing
 
-### Move By Word
+** Move By Word **
 
 ```
 Ctrl+Right
