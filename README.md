@@ -263,9 +263,9 @@ Shift+Ctrl+T
 
 - Spilt Editor
 
-```bash
-Cmd+\
+```
 Ctrl+\
+Cmd+\
 ```
 
 ### Official List of all commands
