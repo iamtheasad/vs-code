@@ -2,273 +2,293 @@
 
 ## Code Editing
 
-- Move By Word
+### Move By Word
 
-```bash
-Cmd+Right
-Cmd+Left
-
+```
 Ctrl+Right
 Ctrl+Left
+
+Cmd+Right
+Cmd+Left
 ```
 
-- Go To Start & End Of Line
+### Go To Start & End Of Line
 
-```bash
+```
 home
 end
 ```
 
-- Go To Start & End Of File
+### Go To Start & End Of File
 
-```bash
-Cmd+Up
-Cmd+Down
-
+```
 Ctrl+Home
 Ctrl+End
+
+Cmd+Up
+Cmd+Down
 ```
 
-- Cut, Copy & Past Line
+### Cut, Copy & Past Line
 
-```bash
-Cmd+X #Cut
-Cmd+C #Copy
-Cmd+V #Paste
-
+```
 Ctrl+X # Cut
 Ctrl+C # Copy
 Ctrl+V # Paste
+
+Cmd+X #Cut
+Cmd+C #Copy
+Cmd+V #Paste
 ```
 
-- Move Line Up & Down
+### Move Line Up & Down
 
-```bash
-Option+Up
-Option+Down
-
+```
 Alt+Up
 Alt+Down
+
+Option+Up
+Option+Down
 ```
 
-- Copy Line Up & Down
+### Copy Line Up & Down
 
-```bash
-Shift+Option+Up
-Shift+Option+Down
-
+```
 Shift+Alt+Up
 Shift+Alt+Down
+
+
+Shift+Option+Up
+Shift+Option+Down
 ```
 
-Remove Line
+### Remove Line
 
-```bash
-ShiftCmd+K
+```
 Shift+Ctrl+K
+
+ShiftCmd+K
 ```
 
-- Insert Line
+### Insert Line
 
-```bash
-Cmd+Enter # Insert below
-Shift+Cmd+Enter # Insert above
-
+```
 Ctrl+Enter # Insert below
 Shift+Ctrl+Enter # Insert above
+
+Cmd+Enter # Insert below
+Shift+Cmd+Enter # Insert above
 ```
 
-- Jump To Matching Bracket
+### Jump To Matching Bracket
 
-```bash
-Shift+Cmd+\
+```
 Shift+Ctrl+\
+
+Shift+Cmd+\
 ```
 
-- Add Line Comment
+### Add Line Comment
 
-```bash
-Cmd+/
+```
 Ctrl+/
+
+Cmd+/
 ```
 
-- Add Block Comment
+### Add Block Comment
 
-```bash
-Shift+Option+A
+```
 Shift+Alt+A
+
+Shift+Option+A
 ```
 
-- Highlight Code to Any Direction
+### Highlight Code to Any Direction
 
-```bash
+```
 Shift+Any Direction
 ```
 
-- Highlight Code According to Code Block
+### Highlight Code According to Code Block
 
-```bash
-Shift+Alt+Right/Left
+```
+Shift+Alt+Arrow Right/Left
 ```
 
-- Select Next Match
+### Select Next Match
 
-```bash
-Cmd+D
+```
 Ctrl+D
+
+Cmd+D
 ```
 
-- De-select Match
+### D-select Match
 
-```bash
-Cmd+U
+```
 Ctrl+U
+
+Cmd+U
 ```
 
-- Add Multiple Cursor
+### Add Multiple Cursor
 
-```bash
-Option+Click
+```
 Alt+Click
+
+Option+Click
 ```
 
-- Go to Entity (Functions, vars, etc)
+### Go to Entity (Functions, vars, etc)
 
-```bash
-Cmd+Shift+O
+```
 Ctrl+Shift+O
+
+Cmd+Shift+O
 ```
 
 ## Open/View
 
-- Open Command Pallete
+### Open Command Pallete
 
-```bash
-Shift+Cmd+P
+```
 Shift+Ctrl+P
+
+Shift+Cmd+P
 ```
 
-- Access Settings
+### Access Settings
 
-```bash
-Cmd+,
+```
 Ctrl+,
+
+Cmd+,
 ```
 
-- Toggle Terminal
+### Toggle Terminal
 
-```bash
-Ctrl+`
+```
 Ctrl+`
 ```
 
-- Create New Terminal
+### Create New Terminal
 
 ```
 Shift+Ctrl+`
-Shift+Ctrl+`
 ```
 
-- Toggle Sidebar
+### Toggle Sidebar
 
-```bash
-Cmd+B 
+```
 Ctrl+B
+
+Cmd+B
 ```
 
-- Open New Window/Instance
+### Open New Window/Instance
 
-```bash
-Shift+Cmd+N 
+```
 Shift+Ctrl+N
+
+Shift+Cmd+N
 ```
 
-- Close Window
+### Close Window
 
-```bash
-Cmd+W 
+```
 Ctrl+W
+
+Cmd+W
 ```
 
 ## Working With Files
 
-- Sidebar Focus
+### Sidebar Focus
 
-```bash
-Shift+Cmd+E
+```
 Shift+Ctrl+E
+
+Shift+Cmd+E
 ```
 
-- Open File/Folder From Sidebar
+### Open File/Folder From Sidebar
 
-```bash
-Cmd+Left/Right
+```
 Ctrl+Left/Right
+
+Cmd+Left/Right
 ```
 
-- Change File Tabs
+### Change File Tabs
 
-```bash
-Ctrl+Tab 
+```
+Ctrl+Tab
 Ctrl+PageUP
 ```
 
-- Quick File Open
+### Quick File Open
 
-```bash
-Cmd+P
+```
 Ctrl+P
+
+Cmd+P
 ```
 
-- Open File From Explorer
+### Open File From Explorer
 
-```bash
-Cmd+O
+```
 Ctrl+O
+
+Cmd+O
 ```
 
-- New File
+### New File
 
-```bash
-Cmd+N
+```
 Ctrl+N
+
+Cmd+N
 ```
 
-- Rename File
+### Rename File
 
-```bash
+```
 F2
 ```
 
-- Close File
+### Close File
 
-```bash
-Cmd+W
+```
 Ctrl+W
+
+Cmd+W
 ```
 
-- Delete File
+### Delete File
 
 ```
 Delete button
-Delete button
 ```
 
-- Reopen Tab
+### Reopen Tab
 
 ```
-Shift+Cmd+T
 Shift+Ctrl+T
+
+Shift+Cmd+T
 ```
 
-- Spilt Editor
+### Spilt Editor
 
 ```
 Ctrl+\
+
 Cmd+\
 ```
 
 ### Official List of all commands
 
-* [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-* [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+- [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
