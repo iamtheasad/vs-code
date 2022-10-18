@@ -67,7 +67,7 @@ Shift+Option+Down
 ```
 Shift+Ctrl+K
 
-ShiftCmd+K
+Shift+Cmd+K
 ```
 
 - **Insert Line**
