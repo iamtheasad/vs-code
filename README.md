@@ -204,6 +204,27 @@ Cmd+W
 
 ## Working With Files
 
+- **Quick File Open**
+
+```
+Ctrl+P
+
+Cmd+P
+```
+
+- **Search In Single File**
+
+```
+Ctrl+F
+```
+
+- **Search In Whole Project**
+  - Mark the text and press the following key or Simply type the text in input field 
+
+```
+Ctrl+Shift+F
+```
+
 - **Sidebar Focus**
 
 ```
@@ -225,14 +246,6 @@ Cmd+Left/Right
 ```
 Ctrl+Tab
 Ctrl+PageUP
-```
-
-- **Quick File Open**
-
-```
-Ctrl+P
-
-Cmd+P
 ```
 
 - **Open File From Explorer**
@@ -257,7 +270,7 @@ Cmd+N
 F2
 ```
 
-- **Close File **
+- **Close File**
 
 ```
 Ctrl+W
@@ -265,7 +278,7 @@ Ctrl+W
 Cmd+W
 ```
 
-- ** Delete File **
+- **Delete File**
 
 ```
 Delete button
