@@ -257,7 +257,7 @@ Cmd+N
 F2
 ```
 
-- \*\*Close File
+- **Close File **
 
 ```
 Ctrl+W
@@ -265,7 +265,7 @@ Ctrl+W
 Cmd+W
 ```
 
-- \*\*Delete File
+- ** Delete File **
 
 ```
 Delete button
