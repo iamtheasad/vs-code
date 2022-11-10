@@ -219,7 +219,7 @@ Ctrl+F
 ```
 
 - **Search In Whole Project**
-  - Mark the text and press the following key or Simply type the text in input field
+  - Mark the text and press the following key `Ctrl+Shift+F` or Simply type the text in input field
 
 ```
 Ctrl+Shift+F
