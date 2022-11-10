@@ -2,7 +2,8 @@
 
 ## Code Editing
 
-- **Move By Word**
+<h4>Move By Word</h4>
+<h4></h4>
 
 ```
 Ctrl+Right
@@ -12,14 +13,14 @@ Cmd+Right
 Cmd+Left
 ```
 
-- **Go To Start & End Of Line**
+<h4>Go To Start & End Of Line</h4>
 
 ```
 home
 end
 ```
 
-- **Go To Start & End Of File**
+<h4>Go To Start & End Of File</h4>
 
 ```
 Ctrl+Home
@@ -29,7 +30,7 @@ Cmd+Up
 Cmd+Down
 ```
 
-- **Cut, Copy & Past Line**
+<h4>Cut, Copy & Past Line</h4>
 
 ```
 Ctrl+X # Cut
@@ -41,7 +42,7 @@ Cmd+C #Copy
 Cmd+V #Paste
 ```
 
-- **Move Line Up & Down**
+<h4>Move Line Up & Down</h4>
 
 ```
 Alt+Up
@@ -51,7 +52,7 @@ Option+Up
 Option+Down
 ```
 
-- **Copy Line Up & Down**
+<h4>Copy Line Up & Down</h4>
 
 ```
 Shift+Alt+Up
@@ -62,7 +63,7 @@ Shift+Option+Up
 Shift+Option+Down
 ```
 
-- **Remove Line**
+<h4>Remove Line</h4>
 
 ```
 Shift+Ctrl+K
@@ -70,7 +71,7 @@ Shift+Ctrl+K
 Shift+Cmd+K
 ```
 
-- **Insert Line**
+<h4>Insert Line</h4>
 
 ```
 Ctrl+Enter # Insert below
@@ -80,7 +81,7 @@ Cmd+Enter # Insert below
 Shift+Cmd+Enter # Insert above
 ```
 
-- **Jump To Matching Bracket**
+<h4>Jump To Matching Bracket</h4>
 
 ```
 Shift+Ctrl+\
@@ -88,7 +89,7 @@ Shift+Ctrl+\
 Shift+Cmd+\
 ```
 
-- **Add Line Comment**
+<h4>Add Line Comment</h4>
 
 ```
 Ctrl+/
@@ -96,7 +97,7 @@ Ctrl+/
 Cmd+/
 ```
 
-- **Add Block Comment**
+<h4>Add Block Comment</h4>
 
 ```
 Shift+Alt+A
@@ -104,19 +105,19 @@ Shift+Alt+A
 Shift+Option+A
 ```
 
-- **Highlight Code to Any Direction**
+<h4>Highlight Code to Any Direction</h4>
 
 ```
 Shift+Any Direction
 ```
 
-- **Highlight Code According to Code Block**
+<h4>Highlight Code According to Code Block</h4>
 
 ```
 Shift+Alt+Arrow Right/Left
 ```
 
-- **Select Next Match**
+<h4>Select Next Match</h4>
 
 ```
 Ctrl+D
@@ -124,7 +125,7 @@ Ctrl+D
 Cmd+D
 ```
 
-- **De-select Match**
+<h4>De-select Match</h4>
 
 ```
 Ctrl+U
@@ -132,7 +133,7 @@ Ctrl+U
 Cmd+U
 ```
 
-- **Add Multiple Cursor**
+<h4>Add Multiple Cursor</h4>
 
 ```
 Alt+Click
@@ -140,7 +141,7 @@ Alt+Click
 Option+Click
 ```
 
-- **Go to Entity (Functions, vars, etc)**
+<h4>Go to Entity (Functions, vars, etc)</h4>
 
 ```
 Ctrl+Shift+O
