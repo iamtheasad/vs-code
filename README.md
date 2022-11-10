@@ -219,10 +219,16 @@ Ctrl+F
 ```
 
 - **Search In Whole Project**
-  - Mark the text and press the following key or Simply type the text in input field 
+  - Mark the text and press the following key or Simply type the text in input field
 
 ```
 Ctrl+Shift+F
+```
+
+- **Search In Explorer Folder**
+
+```
+Click on specific folder and start to type any folder or file name
 ```
 
 - **Sidebar Focus**
