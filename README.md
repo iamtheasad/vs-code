@@ -3,7 +3,6 @@
 ## Code Editing
 
 <h4>Move By Word</h4>
-<h4></h4>
 
 ```
 Ctrl+Right
